@@ -7,9 +7,9 @@ Here is a more in-depth look at the first iteration of pciSeq, focusing on a spe
 </p>
 
 There are three notebooks that accompany this one:
-* Cell to cell type assignment: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](./iter_0_Cell_to_celltype.ipynb)
-* Spot to cell assignment: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](./iter_0_Spot_to_cell.ipynb)
-* Appendix: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](./appendix.ipynb) 
+* Cell to cell type assignment: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/acycliq/pciSeq_iter_0/blob/master/iter_0_Cell_to_celltype.ipynb)
+* Spot to cell assignment: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/acycliq/pciSeq_iter_0/blob/master/iter_0_Spot_to_cell.ipynb)
+* Appendix: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/acycliq/pciSeq_iter_0/blob/master/appendix.ipynb) 
 
 
 
